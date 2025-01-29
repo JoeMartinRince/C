@@ -2,13 +2,13 @@
 int main(){
 
   int num,fact=1;
-  printf("Enter a number : ");
+  printf("\n Enter a number : ");
   scanf("%d",&num);
   while (num>0){
   
     fact = fact * num;
     num--;
   }
-  printf("%d",fact);
+  printf("\n %d",fact);
     return 0;
   }  
