@@ -1,14 +1,12 @@
-#include<stdio.h>
+#include <stdio.h>
 int main(){
-
-  int num,fact=1;
-  printf("\n Enter a number : ");
-  scanf("%d",&num);
-  while (num>0){
-  
-    fact = fact * num;
-    num--;
+ int number,fact,i;
+  printf("Enter the number: " );
+  scanf("%d",&number);
+  fact=1;
+  for (i=1;i<=number;i++){
+   fact = fact*i;
   }
-  printf("\n %d",fact);
-    return 0;
-  }  
+  printf("The factorial is %d",fact);
+ return 0;
+}
