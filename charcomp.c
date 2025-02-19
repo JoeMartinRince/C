@@ -1,6 +1,6 @@
 /*Author : Joe Martin Rince
 Date:19-2-2025
-Program :To compare two strings without using built-in functions
+Program :To compare two strings with using built-in functions
 */
 #include <stdio.h>
 #include <string.h>
