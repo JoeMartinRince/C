@@ -4,7 +4,7 @@ int main() {
     char grade;
 
     printf("Enter the grade: ");
-    scanf("%s", &grade);
+    scanf("%c", &grade);
     switch(grade){
      case 'E':
       printf("EXCELLENT");
