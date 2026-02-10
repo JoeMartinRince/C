@@ -19,3 +19,6 @@ int main(){
 
 
 https://www.canva.com/design/DAG4gI0kpnM/QzJgZd4-3Smhm_we6pvp1Q/edit?utm_content=DAG4gI0kpnM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+https://chatgpt.com/gg/v/6987523e228c819d998df03deabbf61c?token=puYnWFX6J69Jc98yYwmPfA
