@@ -10,7 +10,7 @@ for (i=0;i<n;i++){
  scanf("%d",&num[i]);
 }
 int number;
-printf("\n Enter the no to be searched: ");
+printf("\n Enter the number to be searched: ");
 scanf("%d",&number);
 for (i=0;i<n;i++){
  if (num[i]==number){
